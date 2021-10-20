@@ -1,5 +1,5 @@
 # Titanik_kaggle_project
-This is a Titanik kaggle project [link] (https://www.kaggle.com/c/titanic).
+This is a Titanik kaggle project [link](https://www.kaggle.com/c/titanic).
 
 ## The structure of project:
 1. The initial data are here: [train_data] (https://github.com/KainaraDm/Titanic_kaggle_project/blob/main/train.csv), [test_data_1] (https://github.com/KainaraDm/Titanic_kaggle_project/blob/main/test.csv), [test_data_2] (https://github.com/KainaraDm/Titanic_kaggle_project/blob/main/gender_submission.csv).
